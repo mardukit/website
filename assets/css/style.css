@@ -1694,3 +1694,10 @@ section {
     margin: -20px 0 30px 0;
   }
 }
+
+@media(min-width: 580px){
+.helper{
+  padding-top: 25%;
+  padding-right: 5%;
+}
+}
